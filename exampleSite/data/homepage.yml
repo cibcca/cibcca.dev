@@ -97,27 +97,27 @@ service:
 portfolio:
   enable : true
   title : "Historia del Borde Costero"
-  item_show : 5
+  item_show : 4
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
   enable : true
-  title : "Testimonials"
+  title : "Testimonios"
   item:
-    - name : "Jesica Gomez"
+    - name : "Nombre Apellido 1"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
+      designation : "Cargo 1"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-    - name : "Shirley Scot"
+    - name : "Nombre Apellido 2"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
+      designation : "Cargo 2"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
       
-    - name : "Jessica Julie"
+    - name : "Nombre Apellido 3"
       image : "images/testimonial/client-1.png"
-      designation : "CEO, Funder"
+      designation : "Cargo 3"
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
 
 # client logo slider
