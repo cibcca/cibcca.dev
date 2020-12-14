@@ -22,15 +22,15 @@ team:
   title : "Equipo de Trabajo"
   team_member:
     - title : "Nombre Apellido"
-      image : "images/team/member-1.png"
+      image : "images/team/member.png"
       designation : "Cargo"
       
     - title : "Nombre Apellido"
-      image : "images/team/member-2.png"
+      image : "images/team/member.png"
       designation : "Cargo"
       
     - title : "Nombre Apellido"
-      image : "images/team/member-3.png"
+      image : "images/team/member.png"
       designation : "Cargo"
 
 
