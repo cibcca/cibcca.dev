@@ -1,6 +1,6 @@
 ---
-title: "About"
-description: "This is meta description."
+title: "CIBCCA"
+description: "Sobre la Corporación - Corporación para la Integración del Borde Costero Central de Arica."
 author_image : "images/about/author.jpg"
 author_signature : "images/about/signature.png"
 draft: false

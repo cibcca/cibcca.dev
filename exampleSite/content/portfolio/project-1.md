@@ -2,14 +2,14 @@
 title: "Artwork Design"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-1.png"
-client: "John Doe"
-project_url : "https://themefisher.com/"
+# client: "John Doe"
+# project_url : "url"
 categories: ["design","development"]
-description: "This is meta description."
+description: "Corporación para la Integración del Borde Costero Central de Arica."
 draft: false
 ---
 
-#### Project Requirements
+#### Título 1
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
@@ -18,7 +18,7 @@ fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in c
 mollit anim id est laborum.
 
 
-#### Project Details
+#### Subtítulo
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

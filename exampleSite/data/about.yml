@@ -1,41 +1,41 @@
 # work process
 work_process:
   enable : true
-  title : "Work Process"
+  title : "Pilares para la Integración"
   item:
-  - title : "Research and Plan"
+  - title : "Convenio Público-Privado"
     icon : "images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Capitalizar la oportunidad de recuperar el Borde Costero Central y construirlo armónicamente. Integrar objetivos de proyectos sectoriales para la zona (PEDZE, PLADECO, PRCA, etc.)."
     
-  - title : "Design and Develop"
+  - title : "Diseño Integrado"
     icon : "images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    content : "Traducir demandas en propuestas sintéticas y con sentido de realidad. Incorporar otras disciplinas profesionales para un desarrollo urbano sustentable."
     
-  - title : "Deliver"
-    icon : "images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+  - title : "Participación Ciudadana"
+    icon : "images/icons/people.png"
+    content : "Manejar expectativas con voluntad de integración y transparencia."
 
 
 # team
 team:
   enable: true
-  title : "My Team"
+  title : "Equipo de Trabajo"
   team_member:
-    - title : "Jack Schenziwe"
+    - title : "Nombre Apellido"
       image : "images/team/member-1.png"
-      designation : "Project Manager"
+      designation : "Cargo"
       
-    - title : "Julias Carlie"
+    - title : "Nombre Apellido"
       image : "images/team/member-2.png"
-      designation : "Web Developer"
+      designation : "Cargo"
       
-    - title : "John Doe"
+    - title : "Nombre Apellido"
       image : "images/team/member-3.png"
-      designation : "Designer"
+      designation : "Cargo"
 
 
 # client logo slider
 clients_logo_slider:
   enable : true
-  title : "My Clients"
+  title : "Instituciones Colaboradoras"
   # clients logo comes from 'data/homepage.yml' file

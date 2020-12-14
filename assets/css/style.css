@@ -41,14 +41,14 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 80px
+  font-size: 65px
 }
 
 @media(max-width:991px) {
 
   h1,
   .h1 {
-    font-size: 65px
+    font-size: 40px
   }
 }
 
@@ -256,7 +256,8 @@ a:hover {
 }
 
 .bg-primary {
-  background: var(--primary-color) !important
+  background-image: url(../images/backgrounds/bg-arica.jpg);
+  background-size: cover;
 }
 
 .bg-gray {
@@ -451,11 +452,11 @@ textarea.form-control {
 }
 
 .navbar .nav-item.active .nav-link{
-  color: #52f8f4;
+  color: #2a2a2a;
 }
 
 .navbar-dark .navbar-nav .nav-link {
-  color: #fff;
+  color: #333895;
 }
 
 .hero-area {
@@ -914,4 +915,24 @@ blockquote {
 
 .project-meta p{
   margin-bottom: 0;
+}
+
+.text-grey {
+  color: #fff;
+}
+
+.nav-link:hover{
+  color: #050505 !important;
+}
+
+.text-blue{
+  color: #333895;
+}
+
+.text-white-important{
+  color: #fff !important;
+}
+
+.text-blue-title{
+  color: #333895;
 }

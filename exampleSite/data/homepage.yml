@@ -1,102 +1,102 @@
 # banner
 banner:
-  title : "Hi! I’m <br> Christoher <br> UX designer"
+  title : "Corporación para la Integración del Borde Costero Central de Arica"
 
 # about
 about:
   enable : true
-  content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+  content : "La Corporación para la Integración del Borde Costero de Arica es una entidad sin fines de lucro, creada para convocar e integrar a actores públicos y privados que comparten el interés de contribuir al desarrollo urbano de Arica en su borde costero central."
   button:
     enable : true
-    label : "know more"
+    label : "Más Información"
     URL : "about"
 
 # skill
 skill:
   enable : true
-  title : "Skills"
+  title : "¿Título?"
   item:
-    - title : "Web Design"
+    - title : "¿Métrica 1?"
       progress : "90%"
       color : "#fdb157"
       
-    - title : "Logo Design"
+    - title : "¿Métrica 2?"
       progress : "60%"
       color : "#9473e6"
       
-    - title : "After Effects"
+    - title : "¿Métrica 3?"
       progress : "80%"
       color : "#bdecf6"
       
-    - title : "Web App"
+    - title : "¿Métrica 4?"
       progress : "70%"
       color : "#ffbcaa"
 
 # experience
 experience:
   enable : true
-  title : "Experience"
+  title : "¿Título?"
   item: 
     - logo : "images/experience/icon-1.png"
-      title : "Junior UX Designer"
-      company : "WEBEX"
-      duration : "Jan 2007 - Feb 2009"
+      title : "Histórico 1"
+      company : "LUGAR"
+      duration : "Ene 2007 - Feb 2009"
       
     - logo : "images/experience/icon-2.png"
-      title : "UX & UI Designer"
-      company : "AUGMEDIX"
-      duration : "Mar 2009 - Aug 2014"
+      title : "Histórico 2"
+      company : "LUGAR"
+      duration : "Mar 2009 - Ago 2014"
       
     - logo : "images/experience/icon-1.png"
-      title : "Senior UI Designer"
-      company : "THEMEFISHER"
-      duration : "Sep 2014 - Present"
+      title : "Histórico 3"
+      company : "LUGAR"
+      duration : "Sep 2014 - Presente"
 
 # education
 education:
   enable : true
-  title : "Education"
+  title : "¿Título?"
   item:
-    - title : "Marters in UX Design"
-      year : "2006"
-      academy : "Masassusets Institute of Technology"
+    - title : "Título 1"
+      year : "Año"
+      academy : "Lorem ipsum dolor sit amet."
       
-    - title : "Honours in Fine Arts"
-      year : "2004"
-      academy : "Harvard University"
+    - title : "Título 2"
+      year : "Año"
+      academy : "Lorem ipsum dolor sit amet."
       
-    - title : "Higher Secondary Certificat"
-      year : "2000"
-      academy : "Cardiff School"
+    - title : "Título 3"
+      year : "Año"
+      academy : "Lorem ipsum dolor sit amet."
       
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Título 4"
+      year : "Año"
+      academy : "Lorem ipsum dolor sit amet."
 
 # service
 service:
   enable : true
-  title : "Services"
+  title : "Pilares para la Integración"
   item:
-    - title : "UI Design"
-      icon : "ti-palette"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+    - title : "Convenio Público-Privado"
+      icon : "ti-marker"
+      content : "Capitalizar la oportunidad de recuperar el Borde Costero Central y construirlo armónicamente. Integrar objetivos de proyectos sectoriales para la zona (PEDZE, PLADECO, PRCA, etc.)."
       highlighted : false
 
-    - title : "UX Design"
-      icon : "ti-vector"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-      highlighted : true
-
-    - title : "Interaction Design"
+    - title : "Diseño Integrado"
       icon : "ti-panel"
-      content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
+      content : "Traducir demandas en propuestas sintéticas y con sentido de realidad. Incorporar otras disciplinas profesionales para un desarrollo urbano sustentable."
+      highlighted : false
+
+    - title : "Participación Ciudadana"
+      icon : "ti-user"
+      content : "Manejar expectativas con voluntad de integración y transparencia."
       highlighted : false
 
 # portfolio
 portfolio:
   enable : true
-  title : "Portfolio"
+  title : "Historia del Borde Costero"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
@@ -157,5 +157,5 @@ clients_logo_slider:
 # blog
 blog:
   enable : true
-  title : "Blogs"
+  title : "Últimas Noticias"
   # blog post comes from "content/blog" folder
