@@ -1,7 +1,7 @@
 ---
 title: "CIBCCA"
 description: "Sobre la Corporación - Corporación para la Integración del Borde Costero Central de Arica."
-author_image : "images/about/author.jpg"
+author_image : "images/team/member.png"
 author_signature : "images/about/signature.png"
 draft: false
 ---
