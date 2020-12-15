@@ -10,10 +10,8 @@ $(window).on('load', function () {
 	$(window).scroll(function () {
 		if ($('.navigation').offset().top > 100) {
 			$('.navigation').addClass('nav-bg');
-			$('.nav-link').addClass('text-white-important');
 		} else {
 			$('.navigation').removeClass('nav-bg');
-			$('.nav-link').removeClass('text-white-important');
 		}
 	});
 
