@@ -1,10 +1,11 @@
 ---
-title: "Amazon increase income 1.5 Million"
+title: "Título Noticia 2"
 date: 2019-05-12T12:14:34+06:00
-image: "images/blog/post-2.jpg"
-description: "This is meta description."
+image: "images/blog/post.jpg"
+description: "Corporación para la Integración del Borde Costero Central de Arica."
 draft: false
 ---
+
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
