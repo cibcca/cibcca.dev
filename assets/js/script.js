@@ -10,10 +10,12 @@ $(window).on('load', function () {
 	$(window).scroll(function () {
 		if ($('.navigation').offset().top > 100) {
 			$('.navigation').addClass('nav-bg');
-			$('.text-blue, .nav-link').addClass('text-white-important');
+			$('.nav-link').addClass('text-white-important');
+			$(".logo-cibcca").attr("src","images/logo-white.svg");
 		} else {
 			$('.navigation').removeClass('nav-bg');
-			$('.text-blue, .nav-link').removeClass('text-white-important');
+			$('.nav-link').removeClass('text-white-important');
+			$(".logo-cibcca").attr("src","images/logo-grey.svg");
 		}
 	});
 

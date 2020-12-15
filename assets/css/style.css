@@ -936,3 +936,12 @@ blockquote {
 .text-blue-title{
   color: #333895;
 }
+
+.logo-cibcca{
+  height: 75px;
+
+}
+
+.logo{
+  display: inline !important;
+}
