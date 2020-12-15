@@ -11,11 +11,9 @@ $(window).on('load', function () {
 		if ($('.navigation').offset().top > 100) {
 			$('.navigation').addClass('nav-bg');
 			$('.nav-link').addClass('text-white-important');
-			$(".logo-cibcca").attr("src","../images/logo-white.svg");
 		} else {
 			$('.navigation').removeClass('nav-bg');
 			$('.nav-link').removeClass('text-white-important');
-			$(".logo-cibcca").attr("src","../images/logo-grey.svg");
 		}
 	});
 
