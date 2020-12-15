@@ -8,7 +8,7 @@
     <div class="row mb-5">
       <div class="col-12">
         <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
-          <label class="btn btn-sm btn-primary active">
+          <label style="font-family: bwnistaint-xbd" class="btn btn-sm btn-primary active">
             <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todos
           </label>
 					{{ $categories := slice }}
@@ -18,7 +18,7 @@
 					{{ end }}
 					{{ end }}
 					{{ range ( $categories | uniq ) }}
-          <label class="btn btn-sm btn-primary">
+          <label style="font-family: bwnistaint-xbd" class="btn btn-sm btn-primary">
             <input type="radio" name="shuffle-filter" value="{{ . | urlize }}" />{{ . | humanize }}
           </label>
           {{ end }}
