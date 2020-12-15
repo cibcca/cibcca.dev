@@ -45,11 +45,19 @@ h1,
 }
 
 @media(max-width:991px) {
+  #l4 {
+    top: 150px !important;
+  }
+
+  #l7 {
+    bottom: 80px !important;
+  }
 
   h1,
   .h1 {
-    font-size: 40px
+    font-size: 35px
   }
+
 }
 
 h2,
