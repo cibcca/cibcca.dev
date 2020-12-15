@@ -54,14 +54,14 @@ h1,
 
 h2,
 .h2 {
-  font-size: 60px
+  font-size: 45px
 }
 
 @media(max-width:991px) {
 
   h2,
   .h2 {
-    font-size: 50px
+    font-size: 35px
   }
 }
 
@@ -788,7 +788,7 @@ blockquote {
 .page-title-alt .bg-shape-2 {
   position: absolute;
   left: 70px;
-  top: 100px
+  top: 225px
 }
 
 .page-title-alt .bg-shape-3 {
@@ -841,7 +841,7 @@ blockquote {
 .page-title .bg-shape-3 {
   position: absolute;
   left: 10%;
-  top: 100px
+  top: 200px
 }
 
 .page-title .bg-shape-4 {
