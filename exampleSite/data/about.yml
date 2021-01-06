@@ -11,14 +11,14 @@ work_process:
     icon : "images/icons/design.png"
     content : "Traducir demandas en propuestas sintéticas y con sentido de realidad. Incorporar otras disciplinas profesionales para un desarrollo urbano sustentable."
     
-  - title : "Participación Ciudadana"
-    icon : "images/icons/people.png"
-    content : "Manejar expectativas con voluntad de integración y transparencia."
+  # - title : "Participación Ciudadana"
+    # icon : "images/icons/people.png"
+    # content : "Manejar expectativas con voluntad de integración y transparencia."
 
 
 # team
 team:
-  enable: true
+  enable: false
   title : "Equipo de Trabajo"
   team_member:
     - title : "Nombre Apellido"

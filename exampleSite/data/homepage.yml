@@ -88,10 +88,10 @@ service:
       content : "Traducir demandas en propuestas sintéticas y con sentido de realidad. Incorporar otras disciplinas profesionales para un desarrollo urbano sustentable."
       highlighted : false
 
-    - title : "Participación Ciudadana"
-      icon : "ti-user"
-      content : "Manejar expectativas con voluntad de integración y transparencia."
-      highlighted : false
+  #  - title : "Participación Ciudadana"
+  #    icon : "ti-user"
+  #    content : "Manejar expectativas con voluntad de integración y transparencia."
+  #    highlighted : false
 
 # portfolio
 portfolio:

@@ -6,10 +6,16 @@
 <section class="section">
   <div class="container">
     <div class="row mb-5">
+      <div class="col-lg-10 mx-auto text-center">
+        <p class="lead text-dark">En esta sección podrás revisar imágenes y fotografías, e informarte de su origen y descripción. Para revisar categorías específicas, selecciona cualquiera de los siguientes títulos. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+        </p>
+      </div>
+    </div>
+    <div class="row mb-5">
       <div class="col-12">
         <div class="btn-group btn-group-toggle justify-content-center d-flex flex-wrap" data-toggle="buttons">
           <label style="font-family: bwnistaint-xbd" class="btn btn-sm btn-primary active">
-            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todos
+            <input type="radio" name="shuffle-filter" value="all" checked="checked" />Todas
           </label>
 					{{ $categories := slice }}
 					{{ range .Data.Pages }}
