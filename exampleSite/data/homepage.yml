@@ -96,7 +96,7 @@ service:
 # portfolio
 portfolio:
   enable : true
-  title : "Historia del Borde Costero"
+  title : "Galería de Imágenes"
   item_show : 5
   # portfolio item comes from 'data/portfolio.yml' item.
 
