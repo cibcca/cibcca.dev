@@ -1,15 +1,15 @@
 ---
-title: "Barrio La Chimba"
+title: "Título de Imagen"
 date: 2019-05-12T12:14:34+06:00
 image: "images/portfolio/item-2.png"
-# client: "John Doe"
+client: "Agregar Fuente"
 # project_url : "url"
-categories: []
+categories: ["Histórica","Actuales","Proyecto","Técnica"]
 description: "Corporación para la Integración del Borde Costero Central de Arica."
 draft: false
 ---
 
-#### Barrio La Chimba
+#### Título de la Imagen
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore
 et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
